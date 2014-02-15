@@ -10,7 +10,7 @@ First, fork this repo with the Fork button at the top. This will create a repo
 that you own under your name. From now on, "this repo" refers to your forked
 repo.
 
-# If you're using GitHub for Windows:
+### If you're using GitHub for Windows:
 1. Make sure that your credentials are set up. If you are logged in using your
    GitHub account, the defaults should be good, but they don't take effect until
    you look at them. Click the settings button, then click update.
