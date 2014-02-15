@@ -80,3 +80,5 @@ Add instructions for GitHub for Mac.
 Add instructions for command line git.
 
 Add instructions for branching.
+
+I READ THIS- Jack
